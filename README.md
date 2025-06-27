@@ -39,8 +39,8 @@ An end-to-end web application that simplifies the campus placement process by co
 ## 🧑‍💻 Project Structure
 /OCSS
 │
-├── images/                         # Image assets
-│   ├── logos/                      # Company and student profile logos
+├── images/
+| ├── logos/                      # Company and student profile logos
 │   │   ├── company_298.png
 │   │   ├── student_542.png
 │   │   └── ...
