@@ -41,11 +41,6 @@ An end-to-end web application that simplifies the campus placement process by co
 │
 ├── images/
 | ├── logos/                      # Company and student profile logos
-│   │   ├── company_298.png
-│   │   ├── student_542.png
-│   │   └── ...
-│   ├── bg.jpg
-│   └── Centering Card Layout.html
 │
 ├── phpmailer/                      # PHPMailer library for email functionality
 │   ├── Exception.php
@@ -54,9 +49,6 @@ An end-to-end web application that simplifies the campus placement process by co
 │   └── SMTP.php
 │
 ├── resumes/                        # Uploaded student resumes
-│   ├── resume_1.pdf
-│   ├── resume_10.docx
-│   └── ...
 │
 ├── aboutus.html                    # Static About Us page
 ├── contactus.html                  # Static Contact Us page
